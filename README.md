@@ -8,7 +8,7 @@
 5. Remote - SSH: Editing 
 6. Remote - WSL
 7. Remote WSL 
-8. [Remote Development !] (https://github.com/shakir544/vscode_extensions/blob/50590ff8b3a7558bd2d0a8f62be0700615c53b8d/RemoteSetup.md)
+8. [Remote Development !](https://github.com/shakir544/vscode_extensions/blob/50590ff8b3a7558bd2d0a8f62be0700615c53b8d/RemoteSetup.md)
 9. YAML
 10. Visual Studio Intellicode
 
