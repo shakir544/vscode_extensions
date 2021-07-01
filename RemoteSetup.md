@@ -30,3 +30,9 @@
 
 ### Copy SSH Key (ssh-copy-id)
     ssh-copy-id -i ~/.ssh/id_rsa-remote-ssh.pub user@SERVER_ID.mylabserver.com
+
+### Add host entry to SSH client config 
+    Host python-server
+         User user
+        HostName SERVER_ID.server.com
+        IdentityFile ~/.ssh/id_rsa-remote-ssh
